@@ -1,0 +1,25 @@
+{
+  "name": "linear-regression-tk",
+  "version": "1.0.0",
+  "description": "linear regression toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-housni/linear-regression-tk.git"
+  },
+  "keywords": [
+    "statistics",
+    "linear",
+    "regression",
+    "prediction"
+  ],
+  "author": "Mohamed Housni (mohamed.housni@um5s.net.ma)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-housni/linear-regression-tk/issues"
+  },
+  "homepage": "https://github.com/m-housni/linear-regression-tk#readme"
+}
