@@ -1,5 +1,5 @@
-import linearRegression from "./src/simple-linear-regression"
+const linearRegression = require("./src/simple-linear-regression")
 
 module.exports = {
-  linearRegression
+  linearRegression,
 }

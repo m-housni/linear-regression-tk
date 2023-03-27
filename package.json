@@ -1,6 +1,6 @@
 {
   "name": "linear-regression-tk",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "linear regression toolkit",
   "main": "index.js",
   "scripts": {

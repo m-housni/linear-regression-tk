@@ -65,4 +65,4 @@ function linearRegression(data) {
   };
 }
 
-export default linearRegression;
+module.exports = linearRegression;
